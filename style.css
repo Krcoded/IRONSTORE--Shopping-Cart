@@ -1,0 +1,36 @@
+*{
+    transition: all 1s;
+}
+
+
+body{
+    padding: 10px;
+    background-color: rgb(255, 250, 250);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+}
+
+
+img {
+    width: 50px;
+}
+
+
+#cart{
+    background-color: rgb(255, 250, 250);
+}
+
+#cart, #items{
+    width: 50vw;
+}
+
+
+
+h1{
+    color: black;
+}
